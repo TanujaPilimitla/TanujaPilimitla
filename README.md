@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @TanujaPilimitla
 - 👀 I’m interested in Data science and Data analyst
-- 🌱 I’m currently learning machine learning
-- 😊 my motive is work hard and achieve our goal 
+- 😊 my motive is work hard and achieve our goal
+- 🙂 Ready to accept challenges in life
+- 📘 Dedication towards work
+- ⏱️ Time management and leadership skills
+- 🤝I can Work with team collaboratively
 
 
 <!---
